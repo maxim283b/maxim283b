@@ -1,4 +1,4 @@
-```md
+
 # Maxim Borisov
 
 ML / AI Engineer focused on industrial AI systems, multi-agent architectures, and AI orchestration.
@@ -95,4 +95,4 @@ I enjoy designing systems that combine:
 - AI product architecture
 - Production-grade LLM workflows
 - B2B AI platforms
-```
+
